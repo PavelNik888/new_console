@@ -1,0 +1,15 @@
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\bin\Debug\net6.0\Example1_HelloWorld.exe
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\bin\Debug\net6.0\Example1_HelloWorld.deps.json
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\bin\Debug\net6.0\Example1_HelloWorld.runtimeconfig.json
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\bin\Debug\net6.0\Example1_HelloWorld.dll
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\bin\Debug\net6.0\Example1_HelloWorld.pdb
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.AssemblyInfo.cs
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.dll
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\refint\Example1_HelloWorld.dll
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.pdb
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\Example1_HelloWorld.genruntimeconfig.cache
+C:\Users\Павел\Documents\Geek Brain\Лекции\Examples\Example1_HelloWorld\obj\Debug\net6.0\ref\Example1_HelloWorld.dll
